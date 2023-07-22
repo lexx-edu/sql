@@ -5,3 +5,4 @@
 - [lesson_02](./lesson_02.sql)
 - [lesson_03](./lesson_03.sql)
 - [lesson_04](./lesson_04.sql)
+- [lesson_05](./lesson_05.sql)
